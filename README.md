@@ -4,3 +4,18 @@ In this homework I was given starter code and my goal was o create a simple cale
 
 Screenshot:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link to deployed Application : https://lsaox.github.io/Day-Planner-Homework/
+
