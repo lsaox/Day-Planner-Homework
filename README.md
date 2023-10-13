@@ -7,6 +7,7 @@ Screenshot:
 
 
 
+![Screenshot (11)](https://github.com/lsaox/Day-Planner-Homework/assets/138525227/67d76aa0-e30a-491f-ba63-fe45bcee5f1e)
 
 
 
